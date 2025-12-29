@@ -1,0 +1,11 @@
+# MATLAB / Octave
+*.asv
+*.m~
+*.mat
+*.fig
+octave-workspace
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
