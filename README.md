@@ -1,3 +1,6 @@
+##Project-Report
+https://drive.google.com/file/d/18vexKBdzoGaN8CIMzaQ4-NZs2poVH5wS/view?usp=drive_link
+
 # Energy-Automation-PID-Building-Simulation
 Occupancy-based lighting + PID HVAC temperature control with a 24-hour MATLAB/Octave simulation, energy (kWh) and cost reporting.
 
